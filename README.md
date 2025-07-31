@@ -12,7 +12,7 @@ To design a personalized, visually stunning digital wedding invitation that can 
 
 ## 🎨 Features
 
-- 💖 Elegant and romantic wedding-themed layout  
+- 💖 Elegant and wedding-themed layout  
 - 📅 Displays event title, date, time, venue, and description  
 - 🌸 Custom design with soft colors, decorative fonts, and floral elements  
 - 📱 Responsive design suitable for mobile and desktop devices  
