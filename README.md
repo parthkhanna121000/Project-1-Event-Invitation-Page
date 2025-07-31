@@ -8,7 +8,6 @@ This project is a simple, responsive **gallery web page** that showcases a colle
 - Clean and minimal user interface
 - Organized sections for each hobby
 - Simple structure — easy to understand and modify
-- Suitable for beginners learning web development
 
 
 
