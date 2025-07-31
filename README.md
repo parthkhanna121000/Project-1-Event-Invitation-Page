@@ -1,13 +1,20 @@
-# 🎨 Hobby Gallery Page
+# 💒 Wedding Invitation Webpage
 
-This project is a simple, responsive **gallery web page** that showcases a collection of my hobbies and interests. It includes images, short text descriptions, and a brief introduction for each hobby. The goal of this project is to demonstrate how to organize and present content using **HTML and CSS** in a clean and visually appealing layout.
+This project is a beautifully crafted **wedding invitation webpage** created using **HTML and CSS**. The page is designed to invite guests to a wedding celebration, providing all essential details such as the event title, date, time, venue, and a heartfelt description — all styled in an elegant and visually appealing layout.
 
-## 📁 Features
+---
 
-- Responsive gallery layout using HTML & CSS
-- Clean and minimal user interface
-- Organized sections for each hobby
-- Simple structure — easy to understand and modify
+## 💍 Project Objective
 
+To design a personalized, visually stunning digital wedding invitation that can be easily shared with guests online.
 
+---
+
+## 🎨 Features
+
+- 💖 Elegant and romantic wedding-themed layout  
+- 📅 Displays event title, date, time, venue, and description  
+- 🌸 Custom design with soft colors, decorative fonts, and floral elements  
+- 📱 Responsive design suitable for mobile and desktop devices  
+- 💌 Clean and minimal structure for easy customization
 
