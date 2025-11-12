@@ -4,6 +4,9 @@ This project is a beautifully crafted **wedding invitation webpage** created usi
 
 ---
 
+## 🖼️ Project Preview
+![Preview 1](preview1.png)
+![Preview 2](preview2.png)
 ## 💍 Project Objective
 
 To design a personalized, visually stunning digital wedding invitation that can be easily shared with guests online.
